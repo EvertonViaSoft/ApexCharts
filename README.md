@@ -6,7 +6,7 @@ Neste projeto crio uma classe com funções para automatizar a criar novos grafi
 
 #### Arquivos e suas funcoes.
 
-*apexChartsDiv.js*
+**apexChartsDiv.js**
 ```sh 
 Este documento serve para criação de graficos dentro de uma div, ele fica no fundo dela. (Necessita de CSS Intermediario)
 ```
