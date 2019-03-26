@@ -1,3 +1,3 @@
-## ApexCharts ``Resolvendo graficos com PHP``
+## ApexCharts ***Resolvendo graficos com PHP***
 
 
