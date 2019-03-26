@@ -24,7 +24,7 @@ Nada mais que o apexCharts não deixe-o de fora da sua aplicação se não nada 
 Responsavel por gerar qualquer grafico.
 ```
 
-#### Passar os dados para o grafico via PHP
+## Passar os dados para o grafico via PHP
 ----
 passe um array que tenha um subitem em cada item indice deste array (exemplo abaixo),  
 tambem passa os labels todos dentro de aspas simples (exemplo abaixo).
