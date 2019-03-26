@@ -1,3 +1,3 @@
-## ApexCharts
+## ApexCharts `Resolvendo graficos com PHP`
 
 
